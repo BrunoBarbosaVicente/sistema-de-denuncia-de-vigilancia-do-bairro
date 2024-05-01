@@ -1,5 +1,7 @@
 Documentação do Sistema de Denúncias de Vigilância do Bairro
 
+Esta documentação fornece uma visão geral do Sistema de Denúncias de Vigilância do Bairro, incluindo suas funcionalidades principais e instruções de uso. Se você tiver alguma dúvida ou precisar de mais informações, não hesite em entrar em contato com o administrador do sistema.
+
 1. Introdução
 O Sistema de Denúncias de Vigilância do Bairro é uma aplicação web desenvolvida para permitir que os moradores de um bairro possam relatar atividades suspeitas ou incidentes de forma rápida e conveniente. Este documento fornece uma visão geral do sistema, incluindo seus recursos, funcionalidades e instruções de uso.
 
